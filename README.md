@@ -47,8 +47,8 @@ Project was created in Unreal Engine 5.3.2 with addition of
 * C++
 * Blueprints
 * Control Rig
-* Chaos Destruction
-* Geometry Collections
+* Chaos Destruction & Geometry Collections
+* Post-Processing
 * Behaviour Trees
 
 ## Highlighed Tech
@@ -68,7 +68,7 @@ System allows to give player a second change once they made a fatal mistake. Dur
 </p>
 
 ### Destructible Shields
-Utilizing the Chaos Destruction System along with Geometry Collection and Fracture Tool allowed to create interesting results once the shielded enemy is kiled. For the simpler case - when the enemy is killed by a regular Katana swing, a simple, one layered Geometry Collection was used, fractured with the Brick Pattern. For the Precision Strike ability kills, more complex two layered Geometry Collection was used, where first layer is a planar cut, and the second was also fracutred with Brick Pattern. When an enemy is killed, two Master Fields are triggered allowing for a slighliy delayed explosion showing both layers of destruction.
+Utilizing the Chaos Destruction System along with Geometry Collection and Fracture Tool allowed to create interesting results once the shielded enemy is kiled. For the simpler case - when the enemy is killed by a regular Katana swing, a simple, one layered Geometry Collection was used, fractured with the Brick Pattern. For the **Precision Strike** ability kills, more complex two layered Geometry Collection was used, where first layer is a planar cut, and the second was also fracutred with Brick Pattern. When an enemy is killed, two Master Fields are triggered allowing for a slighliy delayed explosion showing both layers of destruction.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1cfdfe83-1c11-48fb-8977-cf03cecdfeae" width = "600">
