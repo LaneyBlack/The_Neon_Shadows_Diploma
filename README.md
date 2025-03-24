@@ -1,5 +1,10 @@
 # The Neon Shadows - Diploma Project in Unreal Engine 5
 
+## Info
+[Defense presentation](https://docs.google.com/presentation/d/1ZeebMIwssexlomOQo_7IQOpaxgUJU0060dp-yhoc0K4/edit?usp=sharing)
+[Game trailer](https://drive.google.com/file/d/1OYT0n1fLNLBqTsLSCNbgadAhAIzLRG_-/view?usp=sharing) - 
+[Diploma written part](https://github.com/LaneyBlack/The_Neon_Shadows_Diploma/blob/main/2025_02_TheNeonShadows_compressed.pdf)
+
 ## About the project
 ### Core Idea
 The following project inspired by the game **Ghostrunner** is a mix of parkour and precise Katana combat allowing players to quicly kill their opponents while using the enviroment to their advantage. With the one-hit-one-kill mechanic players can feel unstoppable, while still thinking ahead to make perform the most approprite combo to survive each encounter. If they fail, once per level, they can rewind the time to take a step back and return to action without needing to respawn.
