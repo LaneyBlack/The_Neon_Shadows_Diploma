@@ -81,3 +81,7 @@ Utilizing the Chaos Destruction System along with Geometry Collection and Fractu
 
 ## Authors
 Project was created by the group of 4 programmers over the course of two semesters of PJAIT Game Developement specialization area.
+- [Anton Reut](https://github.com/LaneyBlack)
+- [Antoni Szot](https://github.com/antoniszot)
+- [Barotsz Mielczarek](https://github.com/barmiel4)
+- [Jarosław Fijałkowski](https://github.com/s24468)
