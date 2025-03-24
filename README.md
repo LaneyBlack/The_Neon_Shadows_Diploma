@@ -1,9 +1,9 @@
 # The Neon Shadows - Diploma Project in Unreal Engine 5
 
 ## Info
-[Defense presentation](https://docs.google.com/presentation/d/1ZeebMIwssexlomOQo_7IQOpaxgUJU0060dp-yhoc0K4/edit?usp=sharing)
-[Game trailer](https://drive.google.com/file/d/1OYT0n1fLNLBqTsLSCNbgadAhAIzLRG_-/view?usp=sharing) - 
-[Diploma written part](https://github.com/LaneyBlack/The_Neon_Shadows_Diploma/blob/main/2025_02_TheNeonShadows_compressed.pdf)
+- [Defense presentation](https://docs.google.com/presentation/d/1ZeebMIwssexlomOQo_7IQOpaxgUJU0060dp-yhoc0K4/edit?usp=sharing)
+- [Game trailer](https://drive.google.com/file/d/1OYT0n1fLNLBqTsLSCNbgadAhAIzLRG_-/view?usp=sharing)
+- [Diploma written part](https://github.com/LaneyBlack/The_Neon_Shadows_Diploma/blob/main/2025_02_TheNeonShadows_compressed.pdf)
 
 ## About the project
 ### Core Idea
